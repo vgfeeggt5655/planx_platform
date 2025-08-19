@@ -1,0 +1,5 @@
+{
+  "name": "Plan X",
+  "description": "An integrated educational platform for managing and viewing educational materials, with a special focus on medical content. It allows users to watch video lectures, view PDFs, and use smart AI-powered study tools. Administrators have a powerful control panel to fully manage content, subjects, and users.",
+  "requestFramePermissions": []
+}
